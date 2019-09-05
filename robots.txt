@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooneephei.yserasdream.com/sitemap.xml
